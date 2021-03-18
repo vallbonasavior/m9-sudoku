@@ -1,0 +1,6 @@
+com\mycompany\sudoku\Model\Barreja.class
+com\mycompany\sudoku\PrimaryController.class
+com\mycompany\sudoku\Model\SudokuHoritzontal.class
+module-info.class
+com\mycompany\sudoku\App.class
+com\mycompany\sudoku\Model\CalculaFila.class
